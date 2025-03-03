@@ -66,6 +66,3 @@ This tutorial is designed to be followed sequentially, with each day building up
 
 Contributions to improve the tutorial are welcome. Please feel free to submit a pull request or open an issue to discuss potential improvements.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
